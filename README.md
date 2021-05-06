@@ -25,7 +25,8 @@ C++ program uses recursive function to sort an array of integers into ascending 
 
 
 # Contributors
-<h4>Thank you</h4>
+
+<h3>Thank you</h3>
 
 ----
 
